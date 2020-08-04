@@ -20,11 +20,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HSV-RGB-Masks.ipynb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HSV-RGB-Masks.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HSV-RGB-Masks.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="7" />
+              <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HSV-RGB-Masks_attempt2.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HSV-RGB-Masks_attempt2.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="12" />
             </state>
           </provider>
         </entry>
@@ -50,6 +59,7 @@
         <option value="$PROJECT_DIR$/imageID.py" />
         <option value="$PROJECT_DIR$/OpenCVtest.ipynb" />
         <option value="$PROJECT_DIR$/HSV-RGB-Masks.ipynb" />
+        <option value="$PROJECT_DIR$/HSV-RGB-Masks_attempt2.ipynb" />
       </list>
     </option>
   </component>
@@ -158,7 +168,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13013698" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -167,7 +176,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32881" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3611691" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3611691" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -248,7 +257,14 @@
     <entry file="file://$PROJECT_DIR$/HSV-RGB-Masks.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="7" />
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HSV-RGB-Masks_attempt2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="12" />
         </state>
       </provider>
     </entry>
