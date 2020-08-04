@@ -31,15 +31,6 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="HSV-RGB-Masks_attempt2.ipynb" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/HSV-RGB-Masks_attempt2.ipynb">
-              <provider selected="true" editor-type-id="ipnb-editor">
-                <state>
-                  <selected id="2" />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/README.md">
               <provider selected="true" editor-type-id="text-editor" />
@@ -49,11 +40,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="HSV-RGB-Masks_attempt2.ipynb" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/HSV-RGB-Masks_attempt2.ipynb">
-              <provider selected="true" editor-type-id="ipnb-editor">
-                <state>
-                  <selected id="2" />
+          <file leaf-file-name="imageID.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/imageID.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="85">
+                  <caret line="5" selection-start-line="5" selection-end-line="5" />
                 </state>
               </provider>
             </entry>
@@ -262,13 +253,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imageID.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -276,6 +260,13 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imageID.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
