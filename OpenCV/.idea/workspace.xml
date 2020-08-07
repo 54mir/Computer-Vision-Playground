@@ -10,17 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HSV-RGB-Masks.ipynb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HSV-RGB-Masks.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,8 +26,9 @@
         <option value="$PROJECT_DIR$/imageID.py" />
         <option value="$PROJECT_DIR$/OpenCVtest.ipynb" />
         <option value="$PROJECT_DIR$/HSV-RGB-Masks_attempt2.ipynb" />
-        <option value="$PROJECT_DIR$/HSV-RGB-Masks.ipynb" />
         <option value="$PROJECT_DIR$/ImageMasks.ipynb" />
+        <option value="$PROJECT_DIR$/HSV-RGB-Masks.ipynb" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -149,7 +140,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13013698" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -233,9 +223,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/ImageMasks.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -246,7 +233,14 @@
     <entry file="file://$PROJECT_DIR$/HSV-RGB-Masks.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="10" />
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="83" />
         </state>
       </provider>
     </entry>
